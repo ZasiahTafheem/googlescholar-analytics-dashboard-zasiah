@@ -2,7 +2,7 @@
 
 📊 Research Analytics Portfolio
 
-This project presents interactive Power BI dashboards showcasing my academic publication analytics, citation trends, and scholarly impact using Google Scholar data as on 13 Oct, 2026
+This project presents Power BI dashboards showcasing my academic publication analytics, citation trends, and scholarly impact using Google Scholar data as on 13 Oct, 2026
 
 📚Author
 
