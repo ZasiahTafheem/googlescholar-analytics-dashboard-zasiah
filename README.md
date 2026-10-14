@@ -1,22 +1,20 @@
-# googlescholar-analytics-dashboard-zasiah
+## 📊 Research Analytics Portfolio
 
-📊 Research Analytics Portfolio
+## 🎯 Project Objective
+This project presents Power BI dashboards showcasing my academic publication analytics, citation trends, and scholarly impact using Google Scholar data as on 13 Oct, 2026. The dashboards  provide intuitive visualizations and metrics  to support research performance evaluation.
 
-This project presents Power BI dashboards showcasing my academic publication analytics, citation trends, and scholarly impact using Google Scholar data as on 13 Oct, 2026
-
-📚Author
-
+## 📚Author
 Zasiah Tafheem | HDR Researcher | QUT
 
-📈 Research Metrics
-
+## 📈 Key Metrics
 ✅ Total Publications
 ✅ Total Citations
-✅ h-index
+✅ h-index, i10-index
 ✅ Publication Growth
 ✅ Citation Growth
+✅ Most Cited Publications
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 <img width="686" height="386" alt="Publicaion By year" src="https://github.com/user-attachments/assets/0d74d760-8542-4711-8271-7b68a94d93a7" />
 
 
@@ -30,13 +28,21 @@ Zasiah Tafheem | HDR Researcher | QUT
 
 <img width="212" height="379" alt="My Publication Info" src="https://github.com/user-attachments/assets/7c610e88-7ccd-48c1-9259-8e6f19b7ed42" />
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
  📊 Power BI
  📈 Microsoft Excel
  🎓 Google Scholar
  💻 GitHub
 
-Data Source
+## Data Source
 
-Publication records obtained from Google Scholar and exported to CSV and then loaded to Power BI
+Publication records obtained from Google Scholar and exported to CSV and then loaded to Power BI.
+
+## 🔍 Research Insights 
+
+- Identified publication growth trends
+- Evaluated citation performance
+- Measured scholarly impact
+- Tracked research productivity
+- Highlighted top-performing publications
